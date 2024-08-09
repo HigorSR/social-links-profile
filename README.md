@@ -7,13 +7,13 @@ Este é um projeto [Next.js](https://nextjs.org/) de uma Social Links Profile ba
 Clone o projeto
 
 ```bash
-git clone https://github.com/HigorSR/recipe-page.git
+git clone https://github.com/HigorSR/social-links-profile.git
 ```
 
 Entre no diretório do projeto
 
 ```bash
-  cd recipe-page
+  cd social-links-profile
 ```
 
 Instale as dependências
